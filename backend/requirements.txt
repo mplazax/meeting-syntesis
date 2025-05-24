@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pydantic[email]
+motor # Asynchroniczny sterownik MongoDB
+passlib[bcrypt] # Do hashowania haseł
+python-jose[cryptography] # Do obsługi JWT (JSON Web Tokens)
+python-dotenv # Do zarządzania zmiennymi środowiskowymi (opcjonalnie, ale dobra praktyka)

@@ -25,7 +25,7 @@ backend/.ruff_cache/
 .DS_Store
 Thumbs.db
 
-.env
+backend/.env
 backend/.env
 frontend/.env*
 *.env.*local
